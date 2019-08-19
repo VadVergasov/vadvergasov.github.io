@@ -7,10 +7,11 @@ body {
     width: 100%;
     min-height: 100%;
     margin: 0;
+    padding: 0;
 }
 
 article {
-    width: 100%;
+    width: 97%;
     height: 100%;
     margin: 1.5% 1.5%;
 }
