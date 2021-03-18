@@ -29,7 +29,7 @@ body {
 article {
     width: 97%;
     height: 100%;
-    margin: 1.5% 1.5%;
+    margin: 1.5%;
 }
 
 nav {
@@ -54,7 +54,7 @@ nav ul li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 20px 20px;
+    padding: 20px;
     text-decoration: none;
     font-size: 1.5em;
 }
